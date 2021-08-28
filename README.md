@@ -1,2 +1,2 @@
 # os212
-Ooperating Systems 2021-1
+Operating Systems 2021-1
