@@ -12,7 +12,7 @@ Vi commands and examples.
 2. [Linux file permission](https://linuxize.com/post/understanding-linux-file-permissions/)<br>
 Explains about file permissions in Linux, the effect and how to change them.
 
-3. [awk] (https://linuxize.com/post/awk-command)<br>
+3. [awk](https://linuxize.com/post/awk-command)<br>
 Guide on how to use awk command.
 
 
