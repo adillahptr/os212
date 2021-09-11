@@ -2,14 +2,13 @@
 permalink: /LINKS/
 ---
 
-# LINKS
+# LINK
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+## W01
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+1. [Vi tutorial](https://www.javatpoint.com/vi-editor)<br>
+Vi commands and examples.
+
+2. [Linux file permission](https://linuxize.com/post/understanding-linux-file-permissions/)<br>
+Explains about file permissions in Linux, the effect and how to change them. 
+
