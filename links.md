@@ -19,7 +19,7 @@ This site could help us to learn C language.
 5. [Securing Operating System](https://www.ibm.com/docs/da/cognos-analytics/10.2.2?topic=SSEP7J_10.2.2/com.ibm.swg.ba.cognos.crn_arch.10.2.2.doc/c_securing_the_operating_system.html)<br>
 It explains about techniques/practices to enhance the OS security.
 
-6. [Unix/Linux File System](https://www.tutorialspoint.com/unix/unix-file-system.htm)
+6. [Unix/Linux File System](https://www.tutorialspoint.com/unix/unix-file-system.htm)<br>
 This site explains about linux file system in general, directory structure, how to mount and unmount file system, useful commands for navigating the file system.
-7. [C Pointers](https://www.guru99.com/c-pointers.html)
+7. [C Pointers](https://www.guru99.com/c-pointers.html)<br>
 We can learn basics of C pointers with this site, like how to initialize pointers, types of pointers, using pointer for array and string, advantage and also disadvantage of pointers.
