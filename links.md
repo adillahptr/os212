@@ -21,3 +21,5 @@ It explains about techniques/practices to enhance the OS security.
 
 6. [Unix/Linux File System](https://www.tutorialspoint.com/unix/unix-file-system.htm)
 This site explains about linux file system in general, directory structure, how to mount and unmount file system, useful commands for navigating the file system.
+7. [C Pointers](https://www.guru99.com/c-pointers.html)
+We can learn basics of C pointers with this site, like how to initialize pointers, types of pointers, using pointer for array and string, advantage and also disadvantage of pointers.
