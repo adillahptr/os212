@@ -23,3 +23,9 @@ It explains about techniques/practices to enhance the OS security.
 This site explains about linux file system in general, directory structure, how to mount and unmount file system, useful commands for navigating the file system.
 7. [C Pointers](https://www.guru99.com/c-pointers.html)<br>
 We can learn basics of C pointers with this site, like how to initialize pointers, types of pointers, using pointer for array and string, advantage and also disadvantage of pointers.
+
+8. [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+It explains about virtual memory in operating systems, demand paging, and page replacement algorithms.
+
+9. [Belady's Anomaly](https://www.geeksforgeeks.org/beladys-anomaly-in-page-replacement-algorithms/)
+It explains about Belady's Anomaly, a phenomenon  where increasing the numbers of page frames results in an increase in the number of page faults.
