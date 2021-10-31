@@ -29,3 +29,6 @@ It explains about virtual memory in operating systems, demand paging, and page r
 
 9. [Belady's Anomaly](https://www.geeksforgeeks.org/beladys-anomaly-in-page-replacement-algorithms/)
 It explains about Belady's Anomaly, a phenomenon  where increasing the numbers of page frames results in an increase in the number of page faults.
+
+10. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This site explains about fork() in C language with code examples and its explanation.
