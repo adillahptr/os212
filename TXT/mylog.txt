@@ -84,3 +84,16 @@ ZCZC W06 15 L17 Assignment #07
 ZCZC W06 15 L18 Assignment #08
 ZCZC W06 5 L19 Assignment #09
 ZCZC W06 45 L32 YouTube: study, etc.
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07 20 L22 Quiz
+ZCZC W07 15 L24 Bash, Regex, SED, AWK.
+ZCZC W07 60 L11 Assignment #01
+ZCZC W07 60 L12 Assignment #02
+ZCZC W07 30 L13 Assignment #03
+ZCZC W07 30 L14 Assignment #04
+ZCZC W07 15 L15 Assignment #05
+ZCZC W07 15 L17 Assignment #07
+ZCZC W07 15 L18 Assignment #08
+ZCZC W07 5 L19 Assignment #09
+ZCZC W07 30 L06 References/Books/Documents/GSGS related
+ZCZC W07 15 L27 GnuPG, key-gen, encrypt/decrypt.

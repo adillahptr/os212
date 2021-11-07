@@ -32,3 +32,9 @@ It explains about Belady's Anomaly, a phenomenon  where increasing the numbers o
 
 10. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 This site explains about fork() in C language with code examples and its explanation.
+
+11. [Strategies for Handling Deadlock](https://www.javatpoint.com/os-strategies-for-handling-deadlock)<br>
+This site explains strategies to handlle deadlock. Although it only explains the outlines, you can explore more from the left bar index.
+
+12. [Differences Between Semaphore and Mutex](https://www.tutorialspoint.com/difference-between-semaphore-and-mutex)<br>
+It explains points of semaphore and mutex differences.
