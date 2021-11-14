@@ -38,3 +38,9 @@ This site explains strategies to handlle deadlock. Although it only explains the
 
 12. [Differences Between Semaphore and Mutex](https://www.tutorialspoint.com/difference-between-semaphore-and-mutex)<br>
 It explains points of semaphore and mutex differences.
+
+13. [Multiple Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+It explains about multiple processor schedulin in operating systems.
+
+14. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/prologue/foreword.html)<br>
+It really helps to build linux from scratch.
