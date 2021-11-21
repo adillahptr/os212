@@ -44,3 +44,9 @@ It explains about multiple processor schedulin in operating systems.
 
 14. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/prologue/foreword.html)<br>
 It really helps to build linux from scratch.
+
+15. [BIOS vs UEFI](https://www.freecodecamp.org/news/uefi-vs-bios/)<br>
+This site explains about differences between BIOS and UEFI.
+
+16.[RAID](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)<br>
+It explains about RAID.
